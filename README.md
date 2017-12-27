@@ -2,6 +2,8 @@
 
 Sistema de Eventos recomendados pela Morena.
 
+[![Build Status](https://travis-ci.org/anderson89marques/wttdv3.svg?branch=master)](https://travis-ci.org/anderson89marques/wttdv3)
+
 ## Como desenvolver
 1. Clone o repositório
 2. Crie um virtualenv com python 3.6
