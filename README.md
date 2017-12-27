@@ -3,6 +3,7 @@
 Sistema de Eventos recomendados pela Morena.
 
 [![Build Status](https://travis-ci.org/anderson89marques/wttdv3.svg?branch=master)](https://travis-ci.org/anderson89marques/wttdv3)
+[![Code Health](https://landscape.io/github/anderson89marques/wttdv3/master/landscape.svg?style=flat)](https://landscape.io/github/anderson89marques/wttdv3/master)
 
 ## Como desenvolver
 1. Clone o repositório
